@@ -1,7 +1,5 @@
 # Ars Mathematica
 
----
-
 > *Non docentibus, sed discentibus; Non eruditis, sed erudiendis.*
 > 
 
@@ -16,5 +14,6 @@ Todos aprendemos por imitación, así que los invito a descargar los códigos, c
 ¡Espero que los disfruten! 
 
 Rodrigo.
+
 
 Ars Mathematica.
