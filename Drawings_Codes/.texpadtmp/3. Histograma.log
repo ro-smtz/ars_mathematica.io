@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.18)  30 MAY 2024 11:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.18)  2 JUL 2024 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"2. Diagrama_de_Feynman_Interacón_Dipolar.tex"
-(./2. Diagrama_de_Feynman_Interacón_Dipolar.tex
+**"3. Histograma.tex"
+(./3. Histograma.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2022/10/10 v1.3b Class to compile TeX sub-files standalone
@@ -329,80 +329,109 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@math@for@depth=\count295
 \tikz@math@dimen=\dimen258
 \tikz@math@toks=\toks37
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.meta.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.meta.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen259
-\pgfarrowlength=\dimen260
-\pgfarrowwidth=\dimen261
-\pgfarrowlinewidth=\dimen262
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen263
-\pgfdecoratedremainingdistance=\dimen264
-\pgfdecoratedinputsegmentcompleteddistance=\dimen265
-\pgfdecoratedinputsegmentremainingdistance=\dimen266
-\pgf@decorate@distancetomove=\dimen267
-\pgf@decorate@repeatstate=\count296
-\pgfdecorationsegmentamplitude=\dimen268
-\pgfdecorationsegmentlength=\dimen269
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen259
+\c@pgfplots@coordindex=\count296
+\c@pgfplots@scanlineindex=\count297
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count298
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count299
+\t@pgfplotstable@a=\toks44
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count300
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen260
+\pgfdecoratedremainingdistance=\dimen261
+\pgfdecoratedinputsegmentcompleteddistance=\dimen262
+\pgfdecoratedinputsegmentremainingdistance=\dimen263
+\pgf@decorate@distancetomove=\dimen264
+\pgf@decorate@repeatstate=\count301
+\pgfdecorationsegmentamplitude=\dimen265
+\pgfdecorationsegmentlength=\dimen266
 )
 \tikz@lib@dec@box=\box65
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count302
+\pgfplots@xmin@reg=\dimen267
+\pgfplots@xmax@reg=\dimen268
+\pgfplots@ymin@reg=\dimen269
+\pgfplots@ymax@reg=\dimen270
+\pgfplots@zmin@reg=\dimen271
+\pgfplots@zmax@reg=\dimen272
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.statistics.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count297
+\l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box66
-) (/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/2. Diagrama_de_Feynman_Interacón_Dipolar.aux)
-\openout1 = `"2. Diagrama_de_Feynman_Interacón_Dipolar.aux"'.
+) (/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/3. Histograma.aux)
+\openout1 = `"3. Histograma.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
-\scratchdimen=\dimen270
+\scratchcounter=\count304
+\scratchdimen=\dimen273
 \scratchbox=\box67
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count301
-\MPscratchDim=\dimen271
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks39
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen274
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks46
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) [1
+))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/2. Diagrama_de_Feynman_Interacón_Dipolar.aux) ) 
+[1
+
+] (/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/3. Histograma.aux) ) 
 Here is how much of TeX's memory you used:
- 14894 strings out of 476025
- 319747 string characters out of 5790016
- 1861388 words of memory out of 5000000
- 35091 multiletter control sequences out of 15000+600000
- 513207 words of font info for 36 fonts, out of 8000000 for 9000
+ 23471 strings out of 476025
+ 622705 string characters out of 5790016
+ 1850388 words of memory out of 5000000
+ 43568 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,10n,104p,441b,1266s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/2. Diagrama_de_Feynman_Interacón_Dipolar.pdf" (1 page, 54350 bytes).
+ 102i,5n,104p,742b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on "/Users/ro/Documents/GitHub/ars_mathematica.io/Drawings_Codes/.texpadtmp/3. Histograma.pdf" (1 page, 1104 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 11 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
